@@ -1,2 +1,0 @@
-main_Pmatrix.o: main_Pmatrix.cpp PMatrix.hpp Matrix.hpp mpi_utils.hpp \
- partitioner.hpp chrono.hpp
